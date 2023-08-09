@@ -1,6 +1,6 @@
 # Vehicle-Tail-Light-Detection
 
-Here are the Outputs of the model :
+Here are the Outputs of the model and video outputs are uploaded above in the files:
 
 ![ml1](https://github.com/V1127/Vehicle-Tail-Light-Detection/assets/111186746/f66a2e29-87d6-4b02-9aef-33864601f585)
 
